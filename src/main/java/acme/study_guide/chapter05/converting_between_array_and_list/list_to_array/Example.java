@@ -1,4 +1,4 @@
-package acme.study_guide.chapter05.converting_between_array_and_list;
+package acme.study_guide.chapter05.converting_between_array_and_list.list_to_array;
 
 import java.util.ArrayList;
 import java.util.List;
