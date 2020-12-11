@@ -11,7 +11,7 @@ Small parts of the code for *OCP Java SE 11* (1Z0-817) exam.
 
  № | Toughness | Question | Answer
 :-: | :-------: | -------- | ------
- 1  | ... | See ... class | Answer
+ 1  | Easy | See [acme.study_guide.chapter08.review_questions.question22.Child](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/study_guide/chapter08/review_questions/question22/Child.java) class | [Answer](https://github.com/dbelob/ocp-jse8/blob/master/src/main/java/acme/study_guide/chapter08/review_questions/question22/Answer.md)
 
 ## Previous
 
