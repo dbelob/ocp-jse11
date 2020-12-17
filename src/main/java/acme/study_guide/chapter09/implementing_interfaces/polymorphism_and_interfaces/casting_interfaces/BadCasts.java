@@ -1,4 +1,4 @@
-package acme.study_guide.chapter09.polymorphism_and_interfaces.casting_interfaces;
+package acme.study_guide.chapter09.implementing_interfaces.polymorphism_and_interfaces.casting_interfaces;
 
 interface Canine {
 }
