@@ -13,6 +13,7 @@ Small parts of the code for *OCP Java SE 11* (1Z0-817) exam.
 :-: | :-------: | -------- | ------
  1  | Easy | See [acme.study_guide.chapter08.review_questions.question22.Child](https://github.com/dbelob/ocp-jse11/blob/master/chapters/src/main/java/acme/study_guide/chapter08/review_questions/question22/Child.java) class | [Answer](https://github.com/dbelob/ocp-jse11/blob/master/chapters/src/main/java/acme/study_guide/chapter08/review_questions/question22/Answer.md)
  2  | Easy | See [acme.study_guide.chapter09.review_questions.question22.FruitStand](https://github.com/dbelob/ocp-jse11/blob/master/chapters/src/main/java/acme/study_guide/chapter09/review_questions/question12/FruitStand.java) class | [Answer](https://github.com/dbelob/ocp-jse11/blob/master/chapters/src/main/java/acme/study_guide/chapter09/review_questions/question12/Answer.md)
+ 3  | Easy | See [acme.study_guide.chapter14.review_questions.question18.Z](https://github.com/dbelob/ocp-jse11/blob/master/chapters/src/main/java/acme/study_guide/chapter14/review_questions/question18/Z.java) class | [Answer](https://github.com/dbelob/ocp-jse11/blob/master/chapters/src/main/java/acme/study_guide/chapter14/review_questions/question18/Answer.md)
 
 ## Full exam list
 
