@@ -20,10 +20,10 @@
 
     <modules>
         <module>chapters</module>
-        <module>chapter09-feeding</module>
-        <module>chapter09-care</module>
-        <module>chapter09-talks</module>
-        <module>chapter09-staff</module>
+        <module>chapter11-feeding</module>
+        <module>chapter11-care</module>
+        <module>chapter11-talks</module>
+        <module>chapter11-staff</module>
     </modules>
 
     <build>
