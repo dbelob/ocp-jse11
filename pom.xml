@@ -24,6 +24,10 @@
         <module>chapter11-care</module>
         <module>chapter11-talks</module>
         <module>chapter11-staff</module>
+        <module>chapter17-api</module>
+        <module>chapter17-reservations</module>
+        <module>chapter17-visitor</module>
+        <module>chapter17-agency</module>
     </modules>
 
     <build>
