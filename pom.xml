@@ -48,6 +48,12 @@
                                 <include>*.log</include>
                             </includes>
                         </fileset>
+                        <fileset>
+                            <directory>mods</directory>
+                            <includes>
+                                <include>*.jar</include>
+                            </includes>
+                        </fileset>
                     </filesets>
                 </configuration>
             </plugin>

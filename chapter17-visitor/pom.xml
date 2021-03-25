@@ -12,4 +12,17 @@
     <artifactId>visitor</artifactId>
     <packaging>jar</packaging>
     <name>Consumer</name>
+
+    <dependencies>
+        <dependency>
+            <groupId>zoo.tours</groupId>
+            <artifactId>api</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>zoo.tours</groupId>
+            <artifactId>reservation</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>

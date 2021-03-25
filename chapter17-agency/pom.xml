@@ -12,4 +12,12 @@
     <artifactId>agency</artifactId>
     <packaging>jar</packaging>
     <name>Service Provider</name>
+
+    <dependencies>
+        <dependency>
+            <groupId>zoo.tours</groupId>
+            <artifactId>api</artifactId>
+            <version>${project.version}</version>
+        </dependency>
+    </dependencies>
 </project>
