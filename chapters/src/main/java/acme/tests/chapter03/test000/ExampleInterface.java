@@ -24,15 +24,26 @@ public interface ExampleInterface {
 //    protected static void static2() {
 //    }
 
+    // since Java 9
     private static void static3() {
     }
 
+    // Abstract
+    void abstract0();
+
+    public void abstract1();
+
+//    protected void abstract2();
+
+//    private void abstract3();
+
     // Standard
-    void standard0();
+//    void standard0() {}
 
-    public void standard1();
+//    public void standard1() {}
 
-//    protected void standard2();
+//    protected void standard2() {}
 
-//    private void standard3();
+    // since Java 9
+    private void standard3() {}
 }
