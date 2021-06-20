@@ -18,6 +18,6 @@ public class Example {
 
         Set<String> a4 = new TreeSet<>();
         a4.add("1");
-//        a4.add(null);
+        a4.add(null);
     }
 }
