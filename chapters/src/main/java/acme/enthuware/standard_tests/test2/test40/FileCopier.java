@@ -3,7 +3,7 @@ package acme.enthuware.standard_tests.test2.test40;
 import java.io.*;
 
 public class FileCopier {
-    public static void copy(String records1, String records2)  {
+    public static void copy(String records1, String records2) {
         try {
             InputStream is = new FileInputStream(records1);
             OutputStream os = new FileOutputStream(records2);
@@ -13,7 +13,7 @@ public class FileCopier {
                 os.write(buffer, 0, bytesRead);
                 System.out.println("Read and written bytes " + bytesRead);
             }
-        } catch (IndexOutOfBoundsException | IOException e) {
+        } catch (IOException | IndexOutOfBoundsException e) {
             e.printStackTrace();
         }
     }
