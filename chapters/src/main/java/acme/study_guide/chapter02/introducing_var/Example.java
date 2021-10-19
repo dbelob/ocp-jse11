@@ -14,4 +14,11 @@ public class Example {
         }
         System.out.println(answer);
     }
+
+    public void twoTypes() {
+//        int a, var b = 3;  // DOES NOT COMPILE
+//        var n = null;      // DOES NOT COMPILE
+        int a, b = 3;
+//        var a2, b2 = 3;
+    }
 }
